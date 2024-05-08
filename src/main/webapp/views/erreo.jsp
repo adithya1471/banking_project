@@ -46,7 +46,7 @@
             <a href="/deposit1">Deposit</a>&nbsp;&nbsp;&nbsp;&nbsp;
             <a href="/withdraw1">Withdraw</a>&nbsp;&nbsp;&nbsp;&nbsp;
             <a href="/transfer1">Transfer</a>&nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="closeAccount1">Close A/C</a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="/closeAccount1">Close A/C</a>&nbsp;&nbsp;&nbsp;&nbsp;
             <a href="/about">About</a>
         </div>
         <br><br>
